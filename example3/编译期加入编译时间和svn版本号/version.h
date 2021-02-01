@@ -1,0 +1,2 @@
+#define BUILD_TIMER "2018-04-19 21:07:02"
+#define BUILD_VERSION 1.0
